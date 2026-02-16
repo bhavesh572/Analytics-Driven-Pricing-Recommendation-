@@ -1,6 +1,3 @@
-Here is a **professionally rewritten version** suitable for a **resume, portfolio, LinkedIn, or project documentation**:
-
----
 
 ## Price Recommendation System for Online Sellers
 
